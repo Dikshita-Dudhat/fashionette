@@ -34,3 +34,4 @@ Run API from this [URL](http://127.0.0.1:8081/?q=girls) in local machine.
 ## Future Development Scope
 * Store a data in cache-database like Redis.
 * Instead of deleting cache-data after 7 days update it during low user traffic time e.g. night time using scheduler.
+* Manage API Rate Limits in Queued Jobs.
